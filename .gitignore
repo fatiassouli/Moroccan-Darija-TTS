@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.parquet
+data/
+datasets/
+
+# Audio
+*.wav
+*.mp3
+*.flac
+
+# Training outputs and checkpoints
+checkpoints/
+outputs/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local secrets
+secrets.toml

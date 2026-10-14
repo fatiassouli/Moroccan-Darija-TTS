@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+speechbrain
+librosa
+soundfile
+pandas
+numpy
+pyarrow
+accelerate
+huggingface_hub
